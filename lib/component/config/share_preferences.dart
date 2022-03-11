@@ -1,0 +1,4 @@
+enum ConfigSP {
+  example,
+  keyLanguage,
+}
